@@ -1,1 +1,2 @@
 # hibernateMapping
+@OneToOne Mapping
